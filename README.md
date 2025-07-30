@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sieTRIFORK
+- 👋 Hi, I’m Stefan
 - 👀 I’m interested in backend developing
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me sie@trifork.com
