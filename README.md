@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sieTRIFORK
 - 👀 I’m interested in backend developing
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me sie@trifork.com
+- 🌌 May the force be with you!
 
 <!---
 sieTRIFORK/sieTRIFORK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
